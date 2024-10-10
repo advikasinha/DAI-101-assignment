@@ -17,6 +17,7 @@ Submission by Advika Sinha 23117010
 ### Dataset Overview
 
 The Formula 1 Drivers Dataset spans from 1950 to 2021, containing comprehensive statistics and information about F1 drivers throughout the sport's history. This analysis explores various aspects of driver performance, career longevity, and trends in the sport.
+<img src="/media/statistical_summary.png">
 
 #### Key Features:
 
