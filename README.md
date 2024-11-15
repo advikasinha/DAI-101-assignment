@@ -5,4 +5,8 @@ Submission by Advika Sinha 23117010 (ME-1)
 
 ### F1 Drivers Dataset Analysis - EDA Assignment
 
+<img src="/media/f1.png">
+
 ### Tips - Regression Problem Assignment
+
+<img src="/media/tips.jpg">
